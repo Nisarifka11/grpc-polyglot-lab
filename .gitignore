@@ -1,0 +1,4 @@
+clients/node/node_modules/
+clients/python/venv/
+__pycache__/
+*.pyc
